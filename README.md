@@ -21,6 +21,6 @@ FastQC tool will provide informations like
 11. Overrepresented sequences
 12. Adapter Content
 
-**Input For the tool will be Fastq format (Extentions - ".fq" ,".fastq")( Example files are shared in Input folder for reference.) which is standared out of NGS platforms.**
+**Input - Query input files are FASTQ (.fq/.fastq )( Example files are shared in Input folder for reference.) which is standared out of NGS platforms.**
 
 **Output of the tool will be a .html with all the information ( Output file of example files are also provided in Output folder.)**
