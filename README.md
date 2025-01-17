@@ -1,5 +1,6 @@
 # FastQC
-##**Fastqc is a quality control tool for high throughput sequence data.**
+
+**Fastqc is a quality control tool for high throughput sequence data.**
 
 **Tool Installtion** : Tool can be installed using a link  ( link : https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) 
 
