@@ -1,7 +1,7 @@
 # FastQC
-##Fastqc is a quality control tool for high throughput sequence data.
+##**Fastqc is a quality control tool for high throughput sequence data.**
 
-Tool Installtion : Tool can be installed using a link  ( link : https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) 
+**Tool Installtion** : Tool can be installed using a link  ( link : https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) 
 
 It is very important to check the quality of the data before we shall do any analysis on it. As data quality will decide whether or not the data is good enough for further analysis.
 FastQC tool will provide informations like 
@@ -21,6 +21,6 @@ FastQC tool will provide informations like
 11. Overrepresented sequences
 12. Adapter Content
 
-Input For the tool will be Fastq format (Extentions - ".fq" ,".fastq")( Example files are shared in Input folder for reference.) which is standared out of NGS platforms.
+**Input For the tool will be Fastq format (Extentions - ".fq" ,".fastq")( Example files are shared in Input folder for reference.) which is standared out of NGS platforms.**
 
-Output of the tool will be a .html with all the information ( Output file of example files are also provided in Output folder.)
+**Output of the tool will be a .html with all the information ( Output file of example files are also provided in Output folder.)**
